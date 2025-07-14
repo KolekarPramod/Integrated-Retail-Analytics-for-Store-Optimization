@@ -123,10 +123,15 @@ This project aims to enhance **retail store performance** using **machine learni
 ## 📦 Deliverables
 
 ✅ Cleaned, engineered dataset
+
 ✅ Anomaly detection and visualization dashboards
+
 ✅ Sales forecasting models with evaluation metrics
+
 ✅ Clustered store and department segments with profiles
+
 ✅ Personalized markdown and inventory management strategies
+
 ✅ Final report summarizing insights and recommendations
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
